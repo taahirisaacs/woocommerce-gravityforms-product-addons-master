@@ -1,0 +1,15 @@
+{
+    "name": "taahir/woocommerce-gravityforms-product-addons-master",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/taahir/woocommerce-gravityforms-product-addons-master",
+    "authors": [
+      {
+        "name": "Gravity Forms Product Addons"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+  }
